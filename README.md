@@ -36,4 +36,4 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbangso0322)](https://solved.ac/bbangso0322)
 
 ### Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbangso0322@gmail.com)](mailto:bbangso0322@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bbangso.github.io/)](https://bbangso.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbangso0322@gmail.com)](mailto:bbangso0322@gmail.com)
